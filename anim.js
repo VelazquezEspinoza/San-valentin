@@ -4,11 +4,11 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Al fin llegamos", time: 16 },
-  { text: "A la sima del cielo por amarnos", time: 7 },
-  { text: "Al mundo desafiamos", time: 5 },
-  { text: "Seguimos unidos y enamorados", time: 7 },
-  { text: "Yo se…… que nadie…..", time: 5 },
+  { text: "Al fin llegamos", time: 17 },
+  { text: "A la sima del cielo por amarnos", time: 5 },
+  { text: "Al mundo desafiamos", time: 3 },
+  { text: "Seguimos unidos y enamorados", time: 5 },
+  { text: "Yo se…… que nadie…..", time: 4 },
   { text: "Pensó que nuestro amor duraria", time: 6 },
   { text: "Pero hooy………", time: 3 },
   { text: "Aquí estamos amándonos", time: 6 },
